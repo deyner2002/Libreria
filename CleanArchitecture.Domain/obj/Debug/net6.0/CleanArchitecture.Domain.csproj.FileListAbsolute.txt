@@ -1,0 +1,12 @@
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\deyner solano\source\repos\CleanArchitecture.API\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
