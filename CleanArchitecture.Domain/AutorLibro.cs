@@ -1,6 +1,8 @@
-﻿namespace CleanArchitecture.Domain
+﻿using CleanArchitecture.Domain.Common;
+
+namespace CleanArchitecture.Domain
 {
-    public class AutorLibro
+    public class AutorLibro: BaseDomainModel
     {
         public int LibroId { get; set; }
         public int AutorId { get; set; }
