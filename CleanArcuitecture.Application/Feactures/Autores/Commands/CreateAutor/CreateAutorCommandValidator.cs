@@ -6,6 +6,7 @@ namespace CleanArcuitecture.Application.Feactures.Autores.Commands
     {
         public CreateAutorCommandValidator()
         {
+
             RuleFor(p => p.Nombre)
                 .NotEmpty().WithMessage("{Nombre} no puede estar vacio")
                 .NotNull()
