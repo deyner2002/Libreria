@@ -36,6 +36,7 @@ namespace CleanArchitecture.API.Controllers
             return NoContent();
         }
 
+
         [HttpDelete("{id}", Name = "DeleteAutor")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
