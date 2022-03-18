@@ -9,6 +9,7 @@ namespace CleanArcuitecture.Application.Behaviours
 
         public UnhandledExceptionBehaviour(ILogger<TRequest> logger)
         {
+
             _logger = logger;
         }
 
