@@ -1,6 +1,7 @@
 ﻿using CleanArchitecture.Domain;
 using CleanArcuitecture.Application.Feactures.Libros.Queries.GetLibrosList;
 using AutoMapper;
+using CleanArcuitecture.Application.Feactures.Autores.Commands;
 
 namespace CleanArcuitecture.Application.Mappings
 {
@@ -8,8 +9,8 @@ namespace CleanArcuitecture.Application.Mappings
     {
         public MappingProfile()
         {
-
             CreateMap<Libro, LibrosVm>();
+            CreateMap<CreateAutorCommand, Autor>();
         }
     }
 }

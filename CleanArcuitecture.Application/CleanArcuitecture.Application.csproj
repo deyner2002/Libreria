@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Folder Include="Behaviours\" />
+    <Folder Include="Feactures\Autores\Queries\" />
     <Folder Include="Feactures\Libros\Commands\" />
   </ItemGroup>
 
