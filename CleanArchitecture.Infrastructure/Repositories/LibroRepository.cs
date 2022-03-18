@@ -12,6 +12,7 @@ namespace CleanArchitecture.Infrastructure.Repositories
 
         }
 
+
         public async Task<Libro> GetLibroByNombre(string nombreLibro)
         {
             return await _context.Libros.Where(o => o.Titulo == nombreLibro).FirstOrDefaultAsync();
