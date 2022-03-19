@@ -11,13 +11,6 @@ namespace CleanArchitecture.Infrastructure.Persistence
 
         }
 
-        /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer("Server=.;Database= BdLibreria;Trusted_Connection = True; MultipleActiveResultSets = true")
-            .LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name }, Microsoft.Extensions.Logging.LogLevel.Information)
-            .EnableSensitiveDataLogging();
-        }*/
-
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
         {
             foreach(var entry in ChangeTracker.Entries<BaseDomainModel>())
