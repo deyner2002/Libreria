@@ -14,6 +14,7 @@ namespace CleanArchitecture.Infrastructure.Persistence
         {
             if (!context.Autores!.Any())
             {
+
                 context.Autores!.AddRange(GetPreconfiguredAutor());
                 await context.SaveChangesAsync();
                 logger.LogInformation("Estamos insertando nuevos records al bd {context}",typeof(ApplicationDbContext).Name);
