@@ -20,6 +20,7 @@ namespace CleanArchitecture.Identity.Configurations
                 {
                     RoleId= "6467448c-ffb9-4005-b927-fde2d7d4509d",
                     UserId= "db71af91-1f22-4aee-b416-e85bb36cccd6"
+
                 },
                 new IdentityUserRole<string>
                 {
