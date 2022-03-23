@@ -153,3 +153,6 @@ C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net
 C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\SendGrid.dll
 C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Users\deyner solano\source\repos\Libreria\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
