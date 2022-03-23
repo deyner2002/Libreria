@@ -53,6 +53,7 @@ namespace CleanArchitecture.API.Middleware
                 if (string.IsNullOrEmpty(result))
                     result = JsonConvert.SerializeObject(new CodeErrorException(statusCode, ex.Message, ex.StackTrace));
 
+
                 context.Response.StatusCode = statusCode;
                 await context.Response.WriteAsync(result);
 
