@@ -22,7 +22,6 @@ namespace CleanArchitecture.API.Controllers
         }
 
         [HttpPost(Name = "CreateAutor")]
-        
         [ProducesResponseType((int)HttpStatusCode.OK)]
         public async Task<ActionResult<int>> CreateAutor([FromBody] CreateAutorCommand createAutorCommand)
         {
